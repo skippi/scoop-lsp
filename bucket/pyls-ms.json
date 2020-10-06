@@ -1,0 +1,9 @@
+{
+  "version": "0.5.51",
+  "bin": ["Microsoft.Python.LanguageServer.exe"],
+  "architecture": {
+    "64bit": {
+      "url": "https://pvsc.blob.core.windows.net/python-language-server-stable/Python-Language-Server-win-x64.0.5.51.nupkg"
+    }
+  }
+}
