@@ -1,0 +1,6 @@
+{
+  "version": "0.6.0",
+  "bin": [["language_server.bat", "elixir-ls"]],
+  "hash": "2784cf0964ec0723b46ab51edc81f84914b4fd5f6687a00822edd12bb1be6c71",
+  "url": "https://github.com/elixir-lsp/elixir-ls/releases/download/v0.6.0/elixir-ls.zip"
+}
